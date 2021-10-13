@@ -30,6 +30,7 @@ Clone the [source] with `git`:
 ```bash
 python Pyhelp.py
 ```
+---
 
 ## Contributing
 Feel free to submitting pull requests to us.
